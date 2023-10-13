@@ -3,7 +3,89 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
+@article{Hemmerling2023,
+  abbr={Hum Brain Mapp},
+  title={Spatial distribution of hand-grasp motor task activity in spinal cord functional magnetic resonance imaging},
+  author={Hemmerling, Kimberly J. and Hoggarth, Mark A. and Sandhu, Milap S. and Parrish, Todd B. and Bright, Molly G.},
+  abstract={Abstract Upper extremity motor paradigms during spinal cord functional magnetic resonance imaging (fMRI) can provide insight into the functional organization of the cord. Hand-grasping is an important daily function with clinical significance, but previous studies of similar squeezing movements have not reported consistent areas of activity and are limited by sample size and simplistic analysis methods. Here, we study spinal cord fMRI activation using a unimanual isometric hand-grasping task that is calibrated to participant maximum voluntary contraction (MVC). Two task modeling methods were considered: (1) a task regressor derived from an idealized block design (Ideal) and (2) a task regressor based on the recorded force trace normalized to individual MVC (\%MVC). Across these two methods, group motor activity was highly lateralized to the hemicord ipsilateral to the side of the task. Activation spanned C5–C8 and was primarily localized to the C7 spinal cord segment. Specific differences in spatial distribution are also observed, such as an increase in C8 and dorsal cord activity when using the \%MVC regressor. Furthermore, we explored the impact of data quantity and spatial smoothing on sensitivity to hand-grasp motor task activation. This analysis shows a large increase in number of active voxels associated with the number of fMRI runs, sample size, and spatial smoothing, demonstrating the impact of experimental design choices on motor activation.},
+  journal={Human Brain Mapping},
+  volume={n/a},
+  number={n/a},
+  pages={},
+  year={2023},
+  month={August},
+  doi = {10.1002/hbm.26458},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.26458},
+  html = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.26458},
+  pdf={Hemmerling2023_HumanBrainMapping.pdf},
+  selected={true}
+}
+
+@article{Hoggarth2022,
+  abbr={Front Neurol},
+  title={Effects of variability in manually contoured spinal cord masks on {fMRI} co-registration and interpretation},
+  author={Hoggarth, Mark A. and Wang, Max C. and Hemmerling, Kimberly J. and Vigotsky, Andrew D. and Smith, Zachary A. and Parrish, Todd B. and Weber, Kenneth A. and Bright, Molly G.}, 
+  abstract={Functional magnetic resonance imaging (fMRI) of the human spinal cord (SC) is a unique non-invasive method for characterizing neurovascular responses to stimuli. Group-analysis of SC fMRI data involves co-registration of subject-level data to standard space, which requires manual masking of the cord and may result in bias of group-level SC fMRI results. To test this, we examined variability in SC masks drawn in fMRI data from 21 healthy participants from a completed study mapping responses to sensory stimuli of the C7 dermatome. Masks were drawn on temporal mean functional image by eight raters with varying levels of neuroimaging experience, and the rater from the original study acted as a reference. Spatial agreement between rater and reference masks was measured using the Dice Similarity Coefficient, and the influence of rater and dataset was examined using ANOVA. Each rater's masks were used to register functional data to the PAM50 template. Gray matter-white matter signal contrast of registered functional data was used to evaluate the spatial normalization accuracy across raters. Subject- and group-level analyses of activation during left- and right-sided sensory stimuli were performed for each rater's co-registered data. Agreement with the reference SC mask was associated with both rater (F<sub>(7, 140)</sub> = 32.12, P < 2 × 10<sup>−16</sup>, η<sup>2</sup> = 0.29) and dataset (F<sub>(20, 140)</sub> = 20.58, P < 2 × 10<sup>−16</sup>, η<sup>2</sup> = 0.53). Dataset variations may reflect image quality metrics: the ratio between the signal intensity of spinal cord voxels and surrounding cerebrospinal fluid was correlated with DSC results (p < 0.001). As predicted, variability in the manually-drawn masks influenced spatial normalization, and GM:WM contrast in the registered data showed significant effects of rater and dataset (rater: F<sub>(8, 160)</sub> = 23.57, P < 2 × 10<sup>−16</sup>, η<sup>2</sup> = 0.24; dataset: F<sub>(20, 160)</sub> = 22.00, P < 2 × 10<sup>−16</sup>, η<sup>2</sup> = 0.56). Registration differences propagated into subject-level activation maps which showed rater-dependent agreement with the reference. Although group-level activation maps differed between raters, no systematic bias was identified. Increasing consistency in manual contouring of spinal cord fMRI data improved co-registration and inter-rater agreement in activation mapping, however our results suggest that improvements in image acquisition and post-processing are also critical to address.},
+  journal={Frontiers in Neurology},
+  volume = {13},
+  number={n/a},
+  pages={},
+  year={2022},
+  month = {October},
+  doi = {10.3389/fneur.2022.907581}, 
+  url = {https://www.frontiersin.org/articles/10.3389/fneur.2022.907581}, 
+  html = {https://www.frontiersin.org/articles/10.3389/fneur.2022.907581}, 
+  pdf={Hoggarth2022_FrontiersInNeurology.pdf},
+  publisher = {Frontiers Media {SA}},
+  selected={false}
+}
+
+@inproceedings{Hemmerling2021-2,
+  abbr={IEEE EMBC},
+  title={A visualization tool for assessment of spinal cord functional magnetic resonance imaging data quality}, 
+  author={Hemmerling, Kimberly J. and Bright, Molly G.},
+  abstract={Functional magnetic resonance imaging (fMRI) is an extensively used neuroimaging technique to non-invasively detect neural activity. Data quality is highly variable, and fMRI analysis typically consists of a number of complex processing steps. It is crucial to visually assess images throughout analysis to ensure that data quality at each step is satisfactory. For fMRI analysis of the brain, there is a simple tool to visualize four-dimensional data on a two-dimensional plot for qualitative analysis. Despite the practicality of this method, it cannot be directly applied to fMRI data of the spinal cord, and a comparable approach does not exist for spinal cord fMRI analysis. The additional challenges encountered in spinal cord imaging, including the small size of the cord and the influence of physiological noise sources, drive the importance of developing a similar visualization technique for spinal cord fMRI. Here, we introduce a highly versatile image analysis tool to visualize spinal cord fMRI data as a simple heatmap and to co-visualize relevant traces such as physiological or motion timeseries. We present multiple variations of the plot, data features that can be identified with the heatmap, and examples of the useful qualitative analyses that can be performed using this method. The spinal cord plot can be easily integrated into an fMRI analysis pipeline and can streamline visual inspection and qualitative analysis of functional imaging data.Clinical Relevance— Implementation of this data visualization method is a simple addition to spinal cord fMRI analysis that could be used to identify normal vs. abnormal signal variation in pathologies that impact the cord, such as spinal cord injury or multiple sclerosis.},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+  year={2021},
+  month={December},
+  doi={10.1109/EMBC46164.2021.9630903},
+  url = {https://ieeexplore.ieee.org/document/9630903},
+  html = {https://ieeexplore.ieee.org/document/9630903},
+  selected={true}
+}
+
+@article{Hemmerling2021-1,
+  abbr={Bone Joint J},
+  title = {Fretting and corrosion of metal liners from modular dual mobility constructs},
+  author = {Hemmerling, Kimberly J. and Weitzler, Lydia and Bauer, Thomas W. and Padgett, Douglas E. and Wright, Timothy M.},
+  journal = {The Bone & Joint Journal},
+  volume = {103-B},
+  number = {7},
+  pages = {1238-1246},
+  year = {2021},
+  month = {July},
+  doi = {10.1302/0301-620X.103B7.BJJ-2020-0221.R1},
+  url = {https://doi.org/10.1302/0301-620X.103B7.BJJ-2020-0221.R1},
+  html={https://doi.org/10.1302/0301-620X.103B7.BJJ-2020-0221.R1}
+}
+
+@article{Hunt2021,
+  abbr={J Bone Miner Res},
+  title = {Bone Tissue Composition in Postmenopausal Women Varies With Glycemic Control From Normal Glucose Tolerance to Type 2 Diabetes Mellitus},
+  author = {Hunt, Heather B and Miller, Nicholas A and Hemmerling, Kimberly J and Koga, Maho and Lopez, Kelsie A and Taylor, Erik A and Sellmeyer, Deborah E and Moseley, Kendall F and Donnelly, Eve},
+  abstract = {The risk of fragility fracture increases for people with type 2 diabetes mellitus (T2DM), even after controlling for bone mineral density, body mass index, visual impairment, and falls. We hypothesize that progressive glycemic derangement alters microscale bone tissue composition. We used Fourier-transform infrared (FTIR) imaging to analyze the composition of iliac crest biopsies from cohorts of postmenopausal women characterized by oral glucose tolerance testing: normal glucose tolerance (NGT; n = 35, age = 65 ± 7 years, HbA1c = 5.8 ± 0.3\%), impaired glucose tolerance (IGT; n = 26, age = 64 ± 5 years, HbA1c = 6.0 ± 0.4\%), and overt T2DM on insulin (n = 25, age = 64 ± 6 years, HbA1c = 9.13 ± 0.6). The distributions of cortical bone mineral content had greater mean values (+7\%) and were narrower (−10\%) in T2DM versus NGT groups (p < 0.05). The distributions of acid phosphate, an indicator of new mineral, were narrower in cortical T2DM versus NGT and IGT groups (−14\% and −14\%, respectively) and in trabecular NGT and IGT versus T2DM groups (−11\% and −10\%, respectively) (all p < 0.05). The distributions of crystallinity were wider in cortical NGT versus T2DM groups (+16\%) and in trabecular NGT versus T2DM groups (+14\%) (all p < 0.05). Additionally, bone turnover was lower in T2DM versus NGT groups (P1NP: −25\%, CTx: −30\%, ucOC: −24\%). Serum pentosidine was similar across groups. The FTIR compositional and biochemical marker values of the IGT group typically fell between the NGT and T2DM group values, although the differences were not always statistically significant. In summary, worsening glycemic control was associated with greater mineral content and narrower distributions of acid phosphate, an indicator of new mineral, which together are consistent with observations of lower turnover; however, wider distributions of mineral crystallinity were also observed. A more mineralized, less heterogeneous tissue may affect tissue-level mechanical properties and in turn degrade macroscale skeletal integrity. In conclusion, these data are the first evidence of progressive alteration of bone tissue composition with worsening glycemic control in humans. © 2020 American Society for Bone and Mineral Research (ASBMR).},
+  journal = {Journal of Bone and Mineral Research},
+  volume = {36},
+  number = {2},
+  pages = {334-346},
+  year = {2021},
+  month = {February},
+  doi = {10.1002/jbmr.4186},
+  url = {https://asbmr.onlinelibrary.wiley.com/doi/abs/10.1002/jbmr.4186},
+  html = {https://asbmr.onlinelibrary.wiley.com/doi/abs/10.1002/jbmr.4186}
+}
+
+book{einstein1956investigations,
   bibtex_show={true},
   title={Investigations on the Theory of the Brownian Movement},
   author={Einstein, Albert},
@@ -12,7 +94,7 @@
   preview={brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
+article{einstein1950meaning,
   abbr={AJP},
   bibtex_show={true},
   title={The meaning of relativity},
@@ -25,7 +107,7 @@
   publisher={American Association of Physics Teachers}
 }
 
-@article{PhysRev.47.777,
+article{PhysRev.47.777,
   abbr={PhysRev},
   title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
   author={Einstein, A. and Podolsky, B. and Rosen, N.},
@@ -44,10 +126,10 @@
   pdf={example_pdf.pdf},
   altmetric={248277},
   dimensions={true},
-  selected={true}
+  selected={false}
 }
 
-@article{einstein1905molekularkinetischen,
+article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
   author={Einstein, A.},
   journal={Annalen der physik},
@@ -58,7 +140,7 @@
   publisher={Wiley Online Library}
 }
 
-@article{einstein1905movement,
+article{einstein1905movement,
   abbr={Ann. Phys.},
   title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
   author={Einstein, A.},
@@ -68,13 +150,13 @@
   year={1905}
 }
 
-@article{einstein1905electrodynamics,
+article{einstein1905electrodynamics,
   title={On the electrodynamics of moving bodies},
   author={Einstein, A.},
   year={1905}
 }
 
-@book{przibram1967letters,
+book{przibram1967letters,
   bibtex_show={true},
   title={Letters on wave mechanics},
   author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
