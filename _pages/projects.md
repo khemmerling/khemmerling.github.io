@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: ...coming soon!
+description: ...more coming soon!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, outreach]
 horizontal: false
 ---
 
