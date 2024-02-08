@@ -7,9 +7,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Biomedical Engineering (current)
+    - title: MS/PhD in Biomedical Engineering
       institution: Northwestern University, Evanson, IL
-      year: 2024
+      year: Current
       description:
         - "Advisor: Dr. Molly Bright"
       #   - Description 2.
@@ -33,6 +33,16 @@
         - Explore complex spinal cord functional MRI data to identify neural and vascular responses that provide insight into human health and pathology.
         - Design multi-component experiments with human subjects using MRI, electromyography, physiological signal monitoring, and clinical interventions.
         - Integrate new experimental findings with existing literature to produce high-quality journal publications.
+    - title: Research Scientist Intern
+      institution: Hospital for Special Surgery
+      year: 2018
+      description:
+        - Conducted a study during an 8 week internship to quantify damage to retrieved medical implants.
+    - title: Undergraduate Research Scientist
+      institution: Donnelly Research Lab, Cornell University
+      year: 2017-2019
+      description:
+        - Developed an image-based metric to assess material properties for senior honors thesis.
 
 - title: Honors and Awards
   type: time_table
@@ -49,7 +59,7 @@
         - "T32 Graduate Training Program in Magnetic Resonance Imaging"
     - year: 2019
       items: 
-        - Royal E. Cabell Fellowship (NU)
+        - Royal E. Cabell Fellowship (Northwestern)
 
 - title: Outreach
   type: time_table
@@ -59,6 +69,26 @@
       description:
         - Organized a session at the annual ISMRM (ismrm.org) meeting (5,000+ attendees) for researchers to interface with a layman audience in London, UK (2022) and Toronto, ON (2023).
         - Assigned researchers (conference attendees) to present and discuss their work with local secondary school students that we invited to attend the conference.
+
+- title: Select Presentations
+  type: time_table
+  contents:
+    - title: Mapping spinal cord vascular reactivity and vascular territories using fMRI in highly sampled individuals
+      year: 2024
+      description: 
+        - Upcoming talk at the ISMRM 2024 Annual Meeting in Singapore
+    - title: Spatial distribution of hand-grip motor task activity in spinal cord fMRI
+      year: 2023
+      description:
+        - Talk at the ISMRM 2023 Annual Meeting in Toronto, ON, Canada
+    - title: Mapping functional motor activity in the healthy and post-stroke spinal cord
+      year: 2023
+      description:
+        - Seminar for the Cognitive Brain Mapping Group at Northwestern University
+    - title: Visualization technique for assessment of spinal cord fMRI data quality
+      year: 2021
+      description:
+        - Talk at the ISMRM 2021 Annual Meeting
 
 # - title: Academic Interests
 #   type: nested_list
