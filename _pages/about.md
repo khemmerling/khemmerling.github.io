@@ -22,6 +22,7 @@ Hello! I'm currently a PhD Candidate in Biomedical Engineering at Northwestern U
 
 I use an technique called functional MRI (fMRI) to image the human spinal cord. My research focus is in developing analyses for improved data de-noising as well as application of this technique to learn about vascular and motor function of the spinal cord. Additionally, I am using spinal cord fMRI in conjunction with electromyography (EMG) to study motor impairment. Through this work I am experienced in experimental design, signal & image processing, and data visualization. I'm also interested in data science and AI. 
 
+See Google Scholar for the most up to date list of publications: [Kimberly J Hemmerling](https://scholar.google.com/citations?user=MsReGswAAAAJ&hl=en&oi=ao)
 
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
