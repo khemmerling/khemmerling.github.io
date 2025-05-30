@@ -33,6 +33,9 @@
         - Explore complex spinal cord functional MRI data to identify neural and vascular responses that provide insight into human health and pathology.
         - Design multi-component experiments with human subjects using MRI, electromyography, physiological signal monitoring, and clinical interventions.
         - Integrate new experimental findings with existing literature to produce high-quality journal publications.
+    - title: Intern, Imaging Biomarkers
+      institution: Biogen
+      year: 2024
     - title: Research Scientist Intern
       institution: Hospital for Special Surgery
       year: 2018
@@ -47,13 +50,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - "ISMRM Magna Cum Laude Merit Award"
     - year: 2023
       items: 
         - title: NIH F31 NRSA Individual Predoctoral Fellowship
           contents:
             - <i>Probing an increased reliance on reticulospinal motor pathways in chronic hemiparetic stroke with advanced spinal cord functional MRI</i>
         - "Biomedical Engineering Research Progress Award"
-        - "International Society for Magnetic Resonance in Medicine (ISMRM): Summa Cum Laude Merit Award"
+        - "ISMRM Summa Cum Laude Merit Award"
     - year: 2021
       items:
         - "T32 Graduate Training Program in Magnetic Resonance Imaging"
@@ -70,13 +76,13 @@
         - Organized a session at the annual ISMRM (ismrm.org) meeting (5,000+ attendees) for researchers to interface with a layman audience in London, UK (2022) and Toronto, ON (2023).
         - Assigned researchers (conference attendees) to present and discuss their work with local secondary school students that we invited to attend the conference.
 
-- title: Select Presentations
+- title: Selected Presentations
   type: time_table
   contents:
     - title: Mapping spinal cord vascular reactivity and vascular territories using fMRI in highly sampled individuals
       year: 2024
       description: 
-        - Upcoming talk at the ISMRM 2024 Annual Meeting in Singapore
+        - Talk at the ISMRM 2024 Annual Meeting in Singapore
     - title: Spatial distribution of hand-grip motor task activity in spinal cord fMRI
       year: 2023
       description:
@@ -88,7 +94,7 @@
     - title: Visualization technique for assessment of spinal cord fMRI data quality
       year: 2021
       description:
-        - Talk at the ISMRM 2021 Annual Meeting
+        - Talk at the ISMRM 2021 Annual Meeting (virtual)
 
 # - title: Academic Interests
 #   type: nested_list

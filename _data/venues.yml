@@ -1,3 +1,10 @@
 "Hum Brain Mapp":
   url: https://onlinelibrary.wiley.com/journal/10970193
   color: "#00369f"
+
+"Imaging Neurosci":
+  url: https://direct.mit.edu/imag
+  color: "#6FC747"
+
+"bioRxiv":
+  color: "#7F7F7F"
