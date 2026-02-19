@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello! I'm currently a PhD Candidate in Biomedical Engineering at Northwestern University. I work with Dr. Molly Bright in the [Applied Neuro-Vascular Imaging Lab](https://www.brightlab.northwestern.edu/). 
 
-I use an technique called functional MRI (fMRI) to image the human spinal cord. My research focus is in developing analyses for improved data de-noising as well as application of this technique to learn about vascular and motor function of the spinal cord. Additionally, I am using spinal cord fMRI in conjunction with electromyography (EMG) to study motor impairment. Through this work I am experienced in experimental design, signal & image processing, and data visualization. I'm also interested in data science and AI. 
+I use functional MRI (fMRI) to image the human spinal cord. My research focus is in developing analyses for improved data de-noising as well as application of this technique to learn about vascular and motor function of the spinal cord. Additionally, I am using spinal cord fMRI in conjunction with electromyography (EMG) to study motor impairment. Through this work I am experienced in experimental design, signal & image processing, and data visualization.
 
 See Google Scholar for the most up to date list of publications: [Kimberly J Hemmerling](https://scholar.google.com/citations?user=MsReGswAAAAJ&hl=en&oi=ao)
 
