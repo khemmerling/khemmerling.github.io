@@ -1,17 +1,17 @@
 - title: Kimberly J. Hemmerling
   type: map
   contents:
-    - name: Email
-      value: khemmerling@northwestern.edu
+    # - name: Email
+    #   value: khemmerling@northwestern.edu
 
 - title: Education
   type: time_table
   contents:
     - title: MS/PhD in Biomedical Engineering
-      institution: Northwestern University, Evanson, IL
-      year: Current
+      institution: Northwestern University, Evanston, IL
+      year: 2025
       description:
-        - "Advisor: Dr. Molly Bright"
+        - "PI: Dr. Molly Bright"
       #   - Description 2.
       #   - title: Description 3.
       #     contents:
@@ -20,32 +20,35 @@
     - title: B.S. in Biomedical Engineering with Honors
       institution: Cornell University, Ithaca, NY
       year: 2019
-      description:
-        - cum laude
+      # description:
+        # - cum laude
 
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: Albert Einstein College of Medicine
+      year: 2025-PRESENT
     - title: Graduate Research Assistant
       institution: Applied Neuro-Vascular Imaging Lab, Northwestern University
-      year: 2019-Present
-      description:
-        - Explore complex spinal cord functional MRI data to identify neural and vascular responses that provide insight into human health and pathology.
-        - Design multi-component experiments with human subjects using MRI, electromyography, physiological signal monitoring, and clinical interventions.
-        - Integrate new experimental findings with existing literature to produce high-quality journal publications.
+      year: 2019-2025
+      # description:
+      #   - Explore complex spinal cord functional MRI data to identify neural and vascular responses that provide insight into human health and pathology.
+      #   - Design multi-component experiments with human subjects using MRI, electromyography, physiological signal monitoring, and clinical interventions.
+      #   - Integrate new experimental findings with existing literature to produce high-quality journal publications.
     - title: Intern, Imaging Biomarkers
       institution: Biogen
       year: 2024
     - title: Research Scientist Intern
       institution: Hospital for Special Surgery
       year: 2018
-      description:
-        - Conducted a study during an 8 week internship to quantify damage to retrieved medical implants.
+      # description:
+      #   - Conducted a study during an 8 week internship to quantify damage to retrieved medical implants.
     - title: Undergraduate Research Scientist
       institution: Donnelly Research Lab, Cornell University
       year: 2017-2019
-      description:
-        - Developed an image-based metric to assess material properties for senior honors thesis.
+      # description:
+      #   - Developed an image-based metric to assess material properties for senior honors thesis.
 
 - title: Honors and Awards
   type: time_table
@@ -56,8 +59,8 @@
     - year: 2023
       items: 
         - title: NIH F31 NRSA Individual Predoctoral Fellowship
-          contents:
-            - <i>Probing an increased reliance on reticulospinal motor pathways in chronic hemiparetic stroke with advanced spinal cord functional MRI</i>
+          # contents:
+          #   - <i>Probing an increased reliance on reticulospinal motor pathways in chronic hemiparetic stroke with advanced spinal cord functional MRI</i>
         - "Biomedical Engineering Research Progress Award"
         - "ISMRM Summa Cum Laude Merit Award"
     - year: 2021
@@ -71,7 +74,7 @@
   type: time_table
   contents:
     - title: Science Communication Session | Co-Creator & Organizer
-      year: 2022-Present
+      year: 2022-2023
       description:
         - Organized a session at the annual ISMRM (ismrm.org) meeting (5,000+ attendees) for researchers to interface with a layman audience in London, UK (2022) and Toronto, ON (2023).
         - Assigned researchers (conference attendees) to present and discuss their work with local secondary school students that we invited to attend the conference.
