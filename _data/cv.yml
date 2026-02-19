@@ -58,9 +58,7 @@
         - "ISMRM Magna Cum Laude Merit Award"
     - year: 2023
       items: 
-        - title: NIH F31 NRSA Individual Predoctoral Fellowship
-          # contents:
-          #   - <i>Probing an increased reliance on reticulospinal motor pathways in chronic hemiparetic stroke with advanced spinal cord functional MRI</i>
+        - "NIH F31 NRSA Individual Predoctoral Fellowship"
         - "Biomedical Engineering Research Progress Award"
         - "ISMRM Summa Cum Laude Merit Award"
     - year: 2021
@@ -68,16 +66,16 @@
         - "T32 Graduate Training Program in Magnetic Resonance Imaging"
     - year: 2019
       items: 
-        - Royal E. Cabell Fellowship (Northwestern)
+        - "Royal E. Cabell Fellowship (Northwestern)"
 
-- title: Outreach
-  type: time_table
-  contents:
-    - title: Science Communication Session | Co-Creator & Organizer
-      year: 2022-2023
-      description:
-        - Organized a session at the annual ISMRM (ismrm.org) meeting (5,000+ attendees) for researchers to interface with a layman audience in London, UK (2022) and Toronto, ON (2023).
-        - Assigned researchers (conference attendees) to present and discuss their work with local secondary school students that we invited to attend the conference.
+# - title: Outreach
+#   type: time_table
+#   contents:
+#     - title: Science Communication Session | Co-Creator & Organizer
+#       year: 2022-2023
+#       description:
+#         - Organized a session at the annual ISMRM (ismrm.org) meeting (5,000+ attendees) for researchers to interface with a layman audience in London, UK (2022) and Toronto, ON (2023).
+#         - Assigned researchers (conference attendees) to present and discuss their work with local secondary school students that we invited to attend the conference.
 
 - title: Selected Presentations
   type: time_table
