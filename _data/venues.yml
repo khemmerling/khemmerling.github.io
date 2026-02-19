@@ -6,5 +6,13 @@
   url: https://direct.mit.edu/imag
   color: "#6FC747"
 
+"Sci Rep":
+  url: https://www.nature.com/srep/
+  color: "#DF1114"
+
+"Front Neurol":
+  url: https://www.frontiersin.org/journals/neurology
+  color: "#4795A2"
+
 "bioRxiv":
   color: "#7F7F7F"
